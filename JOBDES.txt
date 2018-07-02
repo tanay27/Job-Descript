@@ -1,0 +1,17 @@
+Job description
+As a Machine Learning Engineer, you will be responsible for features which automate finding insights for our users by taking advantage of Kong’s crucial place in the networks stack, so that they can maximally leverage their data. The models we build use a mix of raw statistics, data science and machine learning; we are pragmatic and will use the simplest approach that works. This team is ideal for someone who is passionate about both machine learning and production engineering. In addition to the R&D for our models, we are also have end-to-end responsibilities for releasing and maintaining.
+
+
+Requirements
+
+MS in Computer Science or related field.
+Has at least 3 years of experience, writing highly performant backend code and/or using machine learning or data science to build product features.
+Experience with fundamental machine learning algorithms like linear and logistic regression and strong foundation in bayesian statistics, inferential statistics, probability theory, distributions, etc.
+Experience with widely used algorithms like decision trees, random forest, SVM, KNN, k-means, SOM and ART etc.
+Detail-oriented, strong passion for building high-quality software.
+Bonus
+
+Experience as a technical lead.
+Experience with machine learning at scale.
+Familiar with sklearn, pytorch or similar libraries
+Familiar with time series databases (OpenTSDB, Graphite, Prometheus, Grafana)
